@@ -33,11 +33,11 @@ export default class KamiInfo extends LightningElement {
                                 company: null
                                };
                                 
-          this.KamiContactInfo = [
+          this.KamiContactInfo = [```
                                   [linkedin](https://www.linkedin.com/in/camila-moreno-ricca/),
                                   [trailblazer](https://trailblazer.me/id/cmorenoricca),
                                   [gmail](mailto:morenoricca.camila@gmail.com?subject=Hello%20Kami,%20From%20Github")
-                                 ];
+                               ```];
         
         }else if(error){
         
