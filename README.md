@@ -1,7 +1,7 @@
 ### Hi there, I'm Kami! 👋
 
 
-[Linkedin](https://www.linkedin.com/in/camila-moreno-ricca/) [Trailblazer](https://trailblazer.me/id/cmorenoricca) [Gmail](mailto:morenoricca.camila@gmail.com?subject=Hello%20Kami,%20From%20Github")
+[Linkedin](https://www.linkedin.com/in/camila-moreno-ricca/) ◆ [Trailblazer](https://trailblazer.me/id/cmorenoricca) ◆ [Gmail](mailto:morenoricca.camila@gmail.com?subject=Hello%20Kami,%20From%20Github")
 
 ```js
 import { LightningElement, wire } from 'lwc';
