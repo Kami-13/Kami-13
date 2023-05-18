@@ -33,16 +33,19 @@ export default class KamiInfo extends LightningElement {
                                 company: null
                                };
                                 
-          this.KamiContactInfo = [
-                                  <pre><code><a href="https:///www.linkedin.com/in/camila-moreno-ricca/">linkedin</a></pre></code>
-                                  [linkedin](https://www.linkedin.com/in/camila-moreno-ricca/),
-                                  [trailblazer](https://trailblazer.me/id/cmorenoricca),
-                                  [gmail](mailto:morenoricca.camila@gmail.com?subject=Hello%20Kami,%20From%20Github")
-                                 ];
+          this.handleContactInfo();
         
         }else if(error){
         
           console.log(error);
+        }
+        
+        handleContactInfo(){
+        
+            this.KamiContactInfo.forEach(()=>{
+            
+                console.log(contactInfo);
+            })
         }
         
         handleSuccessfulLoad() {
@@ -60,3 +63,7 @@ export default class KamiInfo extends LightningElement {
 
 }
 ```
+
+[linkedin](https://www.linkedin.com/in/camila-moreno-ricca/),
+[trailblazer](https://trailblazer.me/id/cmorenoricca),
+[gmail](mailto:morenoricca.camila@gmail.com?subject=Hello%20Kami,%20From%20Github")
