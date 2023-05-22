@@ -1,5 +1,6 @@
 ### Hi there, I'm Kami! 👋
 
+I'm a highly motivated and results-driven individual who is always looking for new challenges, excited to start my next chapter as a Salesforce developer, hoping that I can use my skills and experience to contribute to the success of any organization.
 
 [Linkedin](https://www.linkedin.com/in/camila-moreno-ricca/) ◆ [Trailblazer](https://trailblazer.me/id/cmorenoricca) ◆ [Gmail](mailto:morenoricca.camila@gmail.com?subject=Hello%20Kami,%20From%20Github")
 
